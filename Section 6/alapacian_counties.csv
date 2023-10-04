@@ -1,0 +1,424 @@
+﻿FIPS,STATE,COUNTY
+01007,Alabama,Bibb
+01009,Alabama,Blount
+01015,Alabama,Calhoun
+01017,Alabama,Chambers
+01019,Alabama,Cherokee
+01021,Alabama,Chilton
+01027,Alabama,Clay
+01029,Alabama,Cleburne
+01033,Alabama,Colbert
+01037,Alabama,Coosa
+01043,Alabama,Cullman
+01049,Alabama,De Kalb
+01051,Alabama,Elmore
+01055,Alabama,Etowah
+01057,Alabama,Fayette
+01059,Alabama,Franklin
+01065,Alabama,Hale
+01071,Alabama,Jackson
+01073,Alabama,Jefferson
+01075,Alabama,Lamar
+01077,Alabama,Lauderdale
+01079,Alabama,Lawrence
+01083,Alabama,Limestone
+01087,Alabama,Macon
+01089,Alabama,Madison
+01093,Alabama,Marion
+01095,Alabama,Marshall
+01103,Alabama,Morgan
+01107,Alabama,Pickens
+01111,Alabama,Randolph
+01115,Alabama,St. Clair
+01117,Alabama,Shelby
+01121,Alabama,Talladega
+01123,Alabama,Tallapoosa
+01125,Alabama,Tuscaloosa
+01127,Alabama,Walker
+01133,Alabama,Winston
+13011,Georgia,Banks
+13013,Georgia,Barrow
+13015,Georgia,Bartow
+13045,Georgia,Carroll
+13047,Georgia,Catoosa
+13055,Georgia,Chattooga
+13057,Georgia,Cherokee
+13083,Georgia,Dade
+13085,Georgia,Dawson
+13097,Georgia,Douglas
+13105,Georgia,Elbert
+13111,Georgia,Fannin
+13115,Georgia,Floyd
+13117,Georgia,Forsyth
+13119,Georgia,Franklin
+13123,Georgia,Gilmer
+13129,Georgia,Gordon
+13135,Georgia,Gwinnett
+13137,Georgia,Habersham
+13139,Georgia,Hall
+13143,Georgia,Haralson
+13147,Georgia,Hart
+13149,Georgia,Heard
+13157,Georgia,Jackson
+13187,Georgia,Lumpkin
+13195,Georgia,Madison
+13213,Georgia,Murray
+13223,Georgia,Paulding
+13227,Georgia,Pickens
+13233,Georgia,Polk
+13241,Georgia,Rabun
+13257,Georgia,Stephens
+13281,Georgia,Towns
+13291,Georgia,Union
+13295,Georgia,Walker
+13311,Georgia,White
+13313,Georgia,Whitfield
+21001,Kentucky,Adair
+21011,Kentucky,Bath
+21013,Kentucky,Bell
+21019,Kentucky,Boyd
+21025,Kentucky,Breathitt
+21043,Kentucky,Carter
+21045,Kentucky,Casey
+21049,Kentucky,Clark
+21051,Kentucky,Clay
+21053,Kentucky,Clinton
+21057,Kentucky,Cumberland
+21061,Kentucky,Edmonson
+21063,Kentucky,Elliott
+21065,Kentucky,Estill
+21069,Kentucky,Fleming
+21071,Kentucky,Floyd
+21079,Kentucky,Garrard
+21087,Kentucky,Green
+21089,Kentucky,Greenup
+21095,Kentucky,Harlan
+21099,Kentucky,Hart
+21109,Kentucky,Jackson
+21115,Kentucky,Johnson
+21119,Kentucky,Knott
+21121,Kentucky,Knox
+21125,Kentucky,Laurel
+21127,Kentucky,Lawrence
+21129,Kentucky,Lee
+21131,Kentucky,Leslie
+21133,Kentucky,Letcher
+21135,Kentucky,Lewis
+21137,Kentucky,Lincoln
+21147,Kentucky,McCreary
+21151,Kentucky,Madison
+21153,Kentucky,Magoffin
+21159,Kentucky,Martin
+21165,Kentucky,Menifee
+21169,Kentucky,Metcalfe
+21171,Kentucky,Monroe
+21173,Kentucky,Montgomery
+21175,Kentucky,Morgan
+21181,Kentucky,Nicholas
+21189,Kentucky,Owsley
+21193,Kentucky,Perry
+21195,Kentucky,Pike
+21197,Kentucky,Powell
+21199,Kentucky,Pulaski
+21201,Kentucky,Robertson
+21203,Kentucky,Rockcastle
+21205,Kentucky,Rowan
+21207,Kentucky,Russell
+21231,Kentucky,Wayne
+21235,Kentucky,Whitley
+21237,Kentucky,Wolfe
+24001,Maryland,Allegany
+24023,Maryland,Garrett
+24043,Maryland,Washington
+28003,Mississippi,Alcorn
+28009,Mississippi,Benton
+28013,Mississippi,Calhoun
+28017,Mississippi,Chickasaw
+28019,Mississippi,Choctaw
+28025,Mississippi,Clay
+28057,Mississippi,Itawamba
+28069,Mississippi,Kemper
+28081,Mississippi,Lee
+28087,Mississippi,Lowndes
+28093,Mississippi,Marshall
+28095,Mississippi,Monroe
+28097,Mississippi,Montgomery
+28103,Mississippi,Noxubee
+28105,Mississippi,Oktibbeha
+28107,Mississippi,Panola
+28115,Mississippi,Pontotoc
+28117,Mississippi,Prentiss
+28139,Mississippi,Tippah
+28141,Mississippi,Tishomingo
+28145,Mississippi,Union
+28155,Mississippi,Webster
+28159,Mississippi,Winston
+28161,Mississippi,Yalobusha
+36003,New York,Allegany
+36007,New York,Broome
+36009,New York,Cattaraugus
+36013,New York,Chautauqua
+36015,New York,Chemung
+36017,New York,Chenango
+36023,New York,Cortland
+36025,New York,Delaware
+36077,New York,Otsego
+36095,New York,Schoharie
+36097,New York,Schuyler
+36101,New York,Steuben
+36107,New York,Tioga
+36109,New York,Tompkins
+37003,North Carolina,Alexander
+37005,North Carolina,Alleghany
+37009,North Carolina,Ashe
+37011,North Carolina,Avery
+37021,North Carolina,Buncombe
+37023,North Carolina,Burke
+37027,North Carolina,Caldwell
+37035,North Carolina,Catawba
+37039,North Carolina,Cherokee
+37043,North Carolina,Clay
+37045,North Carolina,Cleveland
+37059,North Carolina,Davie
+37067,North Carolina,Forsyth
+37075,North Carolina,Graham
+37087,North Carolina,Haywood
+37089,North Carolina,Henderson
+37099,North Carolina,Jackson
+37111,North Carolina,McDowell
+37113,North Carolina,Macon
+37115,North Carolina,Madison
+37121,North Carolina,Mitchell
+37149,North Carolina,Polk
+37161,North Carolina,Rutherford
+37169,North Carolina,Stokes
+37171,North Carolina,Surry
+37173,North Carolina,Swain
+37175,North Carolina,Transylvania
+37189,North Carolina,Watauga
+37193,North Carolina,Wilkes
+37197,North Carolina,Yadkin
+37199,North Carolina,Yancey
+39001,Ohio,Adams
+39007,Ohio,Ashtabula
+39009,Ohio,Athens
+39013,Ohio,Belmont
+39015,Ohio,Brown
+39019,Ohio,Carroll
+39025,Ohio,Clermont
+39029,Ohio,Columbiana
+39031,Ohio,Coshocton
+39053,Ohio,Gallia
+39059,Ohio,Guernsey
+39067,Ohio,Harrison
+39071,Ohio,Highland
+39073,Ohio,Hocking
+39075,Ohio,Holmes
+39079,Ohio,Jackson
+39081,Ohio,Jefferson
+39087,Ohio,Lawrence
+39099,Ohio,Mahoning
+39105,Ohio,Meigs
+39111,Ohio,Monroe
+39115,Ohio,Morgan
+39119,Ohio,Muskingum
+39121,Ohio,Noble
+39127,Ohio,Perry
+39131,Ohio,Pike
+39141,Ohio,Ross
+39145,Ohio,Scioto
+39155,Ohio,Trumbull
+39157,Ohio,Tuscarawas
+39163,Ohio,Vinton
+39167,Ohio,Washington
+42003,Pennsylvania,Allegheny
+42005,Pennsylvania,Armstrong
+42007,Pennsylvania,Beaver
+42009,Pennsylvania,Bedford
+42013,Pennsylvania,Blair
+42015,Pennsylvania,Bradford
+42019,Pennsylvania,Butler
+42021,Pennsylvania,Cambria
+42023,Pennsylvania,Cameron
+42025,Pennsylvania,Carbon
+42027,Pennsylvania,Centre
+42031,Pennsylvania,Clarion
+42033,Pennsylvania,Clearfield
+42035,Pennsylvania,Clinton
+42037,Pennsylvania,Columbia
+42039,Pennsylvania,Crawford
+42047,Pennsylvania,Elk
+42049,Pennsylvania,Erie
+42051,Pennsylvania,Fayette
+42053,Pennsylvania,Forest
+42057,Pennsylvania,Fulton
+42059,Pennsylvania,Greene
+42061,Pennsylvania,Huntingdon
+42063,Pennsylvania,Indiana
+42065,Pennsylvania,Jefferson
+42067,Pennsylvania,Juniata
+42069,Pennsylvania,Lackawanna
+42073,Pennsylvania,Lawrence
+42079,Pennsylvania,Luzerne
+42081,Pennsylvania,Lycoming
+42083,Pennsylvania,McKean
+42085,Pennsylvania,Mercer
+42087,Pennsylvania,Mifflin
+42089,Pennsylvania,Monroe
+42093,Pennsylvania,Montour
+42097,Pennsylvania,Northumberland
+42099,Pennsylvania,Perry
+42103,Pennsylvania,Pike
+42105,Pennsylvania,Potter
+42107,Pennsylvania,Schuylkill
+42109,Pennsylvania,Snyder
+42111,Pennsylvania,Somerset
+42113,Pennsylvania,Sullivan
+42115,Pennsylvania,Susquehanna
+42117,Pennsylvania,Tioga
+42119,Pennsylvania,Union
+42121,Pennsylvania,Venango
+42123,Pennsylvania,Warren
+42125,Pennsylvania,Washington
+42127,Pennsylvania,Wayne
+42129,Pennsylvania,Westmoreland
+42131,Pennsylvania,Wyoming
+45007,South Carolina,Anderson
+45021,South Carolina,Cherokee
+45045,South Carolina,Greenville
+45073,South Carolina,Oconee
+45077,South Carolina,Pickens
+45083,South Carolina,Spartanburg
+45087,South Carolina,Union
+47001,Tennessee,Anderson
+47007,Tennessee,Bledsoe
+47009,Tennessee,Blount
+47011,Tennessee,Bradley
+47013,Tennessee,Campbell
+47015,Tennessee,Cannon
+47019,Tennessee,Carter
+47025,Tennessee,Claiborne
+47027,Tennessee,Clay
+47029,Tennessee,Cocke
+47031,Tennessee,Coffee
+47035,Tennessee,Cumberland
+47041,Tennessee,De Kalb
+47049,Tennessee,Fentress
+47051,Tennessee,Franklin
+47057,Tennessee,Grainger
+47059,Tennessee,Greene
+47061,Tennessee,Grundy
+47063,Tennessee,Hamblen
+47065,Tennessee,Hamilton
+47067,Tennessee,Hancock
+47073,Tennessee,Hawkins
+47087,Tennessee,Jackson
+47089,Tennessee,Jefferson
+47091,Tennessee,Johnson
+47093,Tennessee,Knox
+47099,Tennessee,Lawrence
+47101,Tennessee,Lewis
+47105,Tennessee,Loudon
+47107,Tennessee,McMinn
+47111,Tennessee,Macon
+47115,Tennessee,Marion
+47121,Tennessee,Meigs
+47123,Tennessee,Monroe
+47129,Tennessee,Morgan
+47133,Tennessee,Overton
+47137,Tennessee,Pickett
+47139,Tennessee,Polk
+47141,Tennessee,Putnam
+47143,Tennessee,Rhea
+47145,Tennessee,Roane
+47151,Tennessee,Scott
+47153,Tennessee,Sequatchie
+47155,Tennessee,Sevier
+47159,Tennessee,Smith
+47163,Tennessee,Sullivan
+47171,Tennessee,Unicoi
+47173,Tennessee,Union
+47175,Tennessee,Van Buren
+47177,Tennessee,Warren
+47179,Tennessee,Washington
+47185,Tennessee,White
+51005,Virginia,Alleghany + Covington city
+51017,Virginia,Bath
+51021,Virginia,Bland
+51023,Virginia,Botetourt
+51027,Virginia,Buchanan
+51035,Virginia,Carroll + Galax city
+51045,Virginia,Craig
+51051,Virginia,Dickenson
+51063,Virginia,Floyd
+51071,Virginia,Giles
+51077,Virginia,Grayson
+51089,Virginia,Henry + Martinsville city
+51091,Virginia,Highland
+51105,Virginia,Lee
+51121,Virginia,Montgomery + Radford city
+51141,Virginia,Patrick
+51155,Virginia,Pulaski
+51163,Virginia,Rockbridge + Buena Vista city + Lexington city
+51167,Virginia,Russell
+51169,Virginia,Scott
+51173,Virginia,Smyth
+51185,Virginia,Tazewell
+51191,Virginia,Washington + Bristol city
+51195,Virginia,Wise + Norton city
+51197,Virginia,Wythe
+54001,West Virginia,Barbour
+54003,West Virginia,Berkeley
+54005,West Virginia,Boone
+54007,West Virginia,Braxton
+54009,West Virginia,Brooke
+54011,West Virginia,Cabell
+54013,West Virginia,Calhoun
+54015,West Virginia,Clay
+54017,West Virginia,Doddridge
+54019,West Virginia,Fayette
+54021,West Virginia,Gilmer
+54023,West Virginia,Grant
+54025,West Virginia,Greenbrier
+54027,West Virginia,Hampshire
+54029,West Virginia,Hancock
+54031,West Virginia,Hardy
+54033,West Virginia,Harrison
+54035,West Virginia,Jackson
+54037,West Virginia,Jefferson
+54039,West Virginia,Kanawha
+54041,West Virginia,Lewis
+54043,West Virginia,Lincoln
+54045,West Virginia,Logan
+54047,West Virginia,McDowell
+54049,West Virginia,Marion
+54051,West Virginia,Marshall
+54053,West Virginia,Mason
+54055,West Virginia,Mercer
+54057,West Virginia,Mineral
+54059,West Virginia,Mingo
+54061,West Virginia,Monongalia
+54063,West Virginia,Monroe
+54065,West Virginia,Morgan
+54067,West Virginia,Nicholas
+54069,West Virginia,Ohio
+54071,West Virginia,Pendleton
+54073,West Virginia,Pleasants
+54075,West Virginia,Pocahontas
+54077,West Virginia,Preston
+54079,West Virginia,Putnam
+54081,West Virginia,Raleigh
+54083,West Virginia,Randolph
+54085,West Virginia,Ritchie
+54087,West Virginia,Roane
+54089,West Virginia,Summers
+54091,West Virginia,Taylor
+54093,West Virginia,Tucker
+54095,West Virginia,Tyler
+54097,West Virginia,Upshur
+54099,West Virginia,Wayne
+54101,West Virginia,Webster
+54103,West Virginia,Wetzel
+54105,West Virginia,Wirt
+54107,West Virginia,Wood
+54109,West Virginia,Wyoming
